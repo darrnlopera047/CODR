@@ -1,0 +1,58 @@
+.aboutus{
+	margin-top: 80px;
+	display: flex;
+	
+	gap: 3em;
+justify-content: safe center;
+  flex-wrap: wrap;
+  color: white;
+  letter-spacing: 0;
+ 
+}
+.box-aboutus1{
+	width: 700px;
+	height: auto;
+	
+	
+}
+.box-aboutus2{
+	width: 500px;
+	height: auto;
+		
+	
+	
+}
+
+
+
+
+.btn-aboutus{
+    
+	width: 130px;
+  height: 22px;
+  
+  border-radius: 45px;
+  transition: all 0.3s;
+  cursor: pointer;
+  background: #03BDF133 0% 0% no-repeat padding-box;
+
+  font-size: 14px;
+  font-family: Poppins;
+  font-weight: bold;
+  text-align: center;
+
+	justify-content: center;
+}
+.title-aboutus{
+	margin-top: 18px;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-family: poppins;
+	font-size: 65px;
+}
+.success{
+	color: #00BDF1;
+}
+
+
+

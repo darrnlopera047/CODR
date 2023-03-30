@@ -1,0 +1,18 @@
+<svg id="Group_3034" data-name="Group 3034" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="104.664" height="52.152" viewBox="0 0 104.664 52.152">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_3" data-name="Path 3" d="M124.787,305.814a5.065,5.065,0,0,1,.84,7.518,21.913,21.913,0,1,1-.024-29.383,5.088,5.088,0,0,1-.838,7.557l-.48.342a5.09,5.09,0,0,1-6.695-.714,11.148,11.148,0,1,0,.011,15.028,5.065,5.065,0,0,1,6.666-.715C124.44,305.568,124.614,305.692,124.787,305.814Z" transform="translate(-87.442 -276.74)" fill="none"/>
+    </clipPath>
+  </defs>
+  <text id="odr" transform="translate(42.664 40.152)" fill="#fff" font-size="35" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">odr</tspan></text>
+  <g id="Group_14" data-name="Group 14" transform="translate(0 0)">
+    <path id="Path_1" data-name="Path 1" d="M124.787,305.814a5.065,5.065,0,0,1,.84,7.518,21.913,21.913,0,1,1-.024-29.383,5.088,5.088,0,0,1-.838,7.557l-.48.342a5.09,5.09,0,0,1-6.695-.714,11.148,11.148,0,1,0,.011,15.028,5.065,5.065,0,0,1,6.666-.715C124.44,305.568,124.614,305.692,124.787,305.814Z" transform="translate(-85.903 -276.74)" fill="#00bdf1" fill-rule="evenodd"/>
+    <g id="Group_2" data-name="Group 2" transform="translate(1.539)">
+      <g id="Group_1" data-name="Group 1" transform="translate(0)" clip-path="url(#clip-path)">
+        <path id="Path_2" data-name="Path 2" d="M93.871,287.127a6.574,6.574,0,0,1-2.187.1,17.2,17.2,0,0,1-3.175.043,49.756,49.756,0,0,0-5.044-.9c-1.487-.061-3.022.307-4.2-.974-1.938-2.117-1.252-6.17-.3-8.554,1.287-3.205,3.821-5.573,6.345-7.82a33.419,33.419,0,0,1,5.914-4.6,29.473,29.473,0,0,1,7.436-2.49,24.888,24.888,0,0,1,10.293-.768,28.667,28.667,0,0,1,7.248,2.6,21.229,21.229,0,0,1,6.127,4.03,10.487,10.487,0,0,1,2.809,4.546c1.236,4.755-1.891,10.922-6.771,12.256a13.679,13.679,0,0,1-7.9-.355c-4.656-1.678-8.541-4.62-13.781-3.2C95.372,281.405,94.984,286.348,93.871,287.127Z" transform="translate(-81.404 -266.563)" fill="#fff" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="5.356" cy="5.356" r="5.356" transform="translate(0 17.386) rotate(-22.719)" fill="#fff"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="5.356" cy="5.356" r="5.356" transform="translate(18.069 16.561)" fill="#00bdf1"/>
+  </g>
+</svg>
