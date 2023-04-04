@@ -1,0 +1,152 @@
+@font-face{
+  font-family: 'Poppins';
+  src: url(Poppins/Poppins-Regular.ttf) format('truetype');
+  font-weight: Regular;
+}
+@font-face{
+  font-family: 'Poppins';
+  src: url(Poppins/Poppins-Bold.ttf) format('truetype');
+  font-weight: Bold;
+}
+@font-face{
+  font-family: 'Poppins';
+  src: url(Poppins/Poppins-Black.ttf) format('truetype');
+  font-weight: normal;
+}
+
+
+@font-face{
+  font-family: 'ClashDisplay';
+  src: url(ClashDisplayComplete/ClashDisplay-Bold.ttf) format('truetype');
+  font-weight: Bold;
+}
+
+
+
+
+
+
+
+body{
+  background: #00063C;
+}
+
+
+
+
+
+.button-21 {
+  margin-top: 20px;
+  align-items: center;
+
+  border-radius: 70px;
+  border-width: 0;
+  box-shadow: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: poppins,sans-serif;
+  font-size: 13px;
+  height: auto;
+  justify-content: center;
+  
+  padding: 6px 15px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: background-color .2s,background-position .2s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: top;
+  white-space: nowrap;
+  background: #00BDF1;
+  text-transform: capitalize;
+opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
+.banner-container{
+  display: flex;
+  flex-flow: flex;
+flex-direction: row;
+justify-content: center;
+flex-flow: wrap;
+height: auto;
+white-space: auto;
+padding: 20px;
+
+}
+.banner-description{
+
+ 
+  width: 659px;
+  height: auto;
+  justify-content: center;
+
+}
+.banner-image{
+ 
+  width: 600.48px;
+  height: auto;
+}
+.banner-title1{
+  color: #00BDF1;
+  font-family: Clash Display, sans-serif;
+  font-weight: bold;
+  font-size: 65px;
+font-weight: 900;
+  
+}
+.that{
+  color: #FFFFFF;
+   font-family: Clash Display, sans-serif;
+  font-weight: bold;
+   font-size: 65px;
+
+font-weight: 900;
+}
+
+.banner-title2{
+  color: #FFFFFF;
+   font-family: Clash Display, sans-serif;
+  font-weight: bold;
+   font-size: 65px;
+   font-weight: 900;
+
+}
+.banner-paragraph{
+  color: #FFFFFF;
+  font-size: 13px;
+  font-family: Poppins,sans-serif;
+  letter-spacing: 0;
+  opacity: 1;
+}
+
+@media (max-width: 1920px) {
+.banner-description{
+  margin-top: 150px;
+}
+
+
+  }
+
+
+
+@media (max-width: 700px) {
+.banner-description{
+  text-align: center;
+  margin: 0;
+}
+
+
+  }

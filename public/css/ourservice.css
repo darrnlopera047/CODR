@@ -1,0 +1,143 @@
+.our-service-bg{
+	
+	 display: flex;
+  flex-flow: flex;
+flex-direction: row;
+justify-content: center;
+justify-items: center;
+flex-flow: wrap;
+height: auto;
+
+}
+.our-service-bg1{
+	margin: 50px;
+	width: 90%;
+	height: auto;
+	background: #1A1C46 0% 0% no-repeat padding-box;
+border-radius: 40px;
+opacity: 1;
+padding-bottom: 30px;
+
+}
+
+
+
+
+
+.our-service{
+	margin-top: 35px;
+	  display: flex;
+  flex-flow: flex;
+flex-direction: row;
+justify-content: center;
+flex-flow: wrap;
+height: auto;
+white-space: auto;
+}
+.our-service-btn{
+	width: 142px;
+height: 25px;
+		justify-content: center;
+	text-align: center;
+	background: red;
+font-family: poppins,sans-serif;
+font-weight: regular;
+
+  border-radius: 70px;
+  border-width: 0;
+  box-shadow: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-flex;
+letter-spacing: 3.19px;
+  font-size: 13px;
+  height: auto;
+  justify-content: center;
+  
+  padding: 6px 15px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: background-color .2s,background-position .2s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: top;
+  white-space: nowrap;
+  background: #03BDF133;
+  text-transform: capitalize;
+opacity: 1;
+text-decoration: none;
+}
+
+.our-service-container-card{
+	  display: flex;
+  flex-flow: flex;
+flex-direction: row;
+justify-content: center;
+flex-flow: wrap;
+height: auto;
+
+}
+.ourservice-card{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 15px 0px 0px 60px;
+	flex-direction: column;
+	
+
+gap: 30px;
+
+}
+
+.ourservice-images{
+
+	background: #FFFFFF12;
+border-radius: 75px;
+	width: 150px;
+	height: 150px;
+	border-radius: 75%;
+}
+
+
+.our-service-Title{
+	
+	text-align: center;
+	color: white;
+	font-family: Poppins , sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+}
+.our-service-Title:hover{
+	color: #00BDF1;
+}
+.our-service-readme{
+	color: white;
+	font-family: Poppins , sans-serif;
+	font-weight: regular;
+	font-size: 12px;
+}
+.our-service-paragraph{
+	color: white;
+	font-family: Poppins , sans-serif;
+	font-weight: regular;
+	font-size: 12px;
+
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width: 768px){
+
+.ourservice-card{
+	margin: 0;
+	margin-top: 20px;
+}
+}

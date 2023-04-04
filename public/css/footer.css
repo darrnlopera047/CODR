@@ -1,0 +1,170 @@
+@font-face{
+  font-family: 'Poppins';
+  src: url(Poppins/Poppins-Regular.ttf) format('truetype');
+  font-weight: Regular;
+}
+@font-face{
+  font-family: 'Poppins';
+  src: url(Poppins/Poppins-Bold.ttf) format('truetype');
+  font-weight: Bold;
+}
+@font-face{
+  font-family: 'Poppins';
+  src: url(Poppins/Poppins-Black.ttf) format('truetype');
+  font-weight: normal;
+}
+
+
+@font-face{
+  font-family: 'ClashDisplay';
+  src: url(ClashDisplayComplete/ClashDisplay-Bold.ttf) format('truetype');
+  font-weight: Bold;
+}
+
+
+
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+.container-footer{
+	max-width: 1170px;
+	margin:auto;
+}
+.row-footer{
+	display: flex;
+	flex-wrap: wrap;
+}
+.ul{
+	list-style: none;
+}
+.footer{
+	background-color: #00063C;
+    padding: 70px 0;
+}
+.footer-col{
+   width: 25%;
+   padding: 0 15px;
+}
+
+
+.footer-col .ul .li .footer-a{
+	font-size: 16px;
+	text-transform: capitalize;
+
+	text-decoration: none;
+
+
+	display: block;
+	transition: all 0.3s ease;
+	font-weight: regular;
+	font-family: Poppin ,sans-serif;
+	letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+
+}
+
+.footer-col .social-links .footer-a{
+	display: inline-block;
+	height: 40px;
+	width: 40px;
+	background-color:#00BDF1;
+	margin:0 10px 10px 0;
+	text-align: center;
+	line-height: 40px;
+	border-radius: 50%;
+	color: #ffffff;
+	transition: all 0.5s ease;
+}
+.quick{
+	letter-spacing: 2px;
+color: #FFFFFF;
+text-transform: uppercase;
+opacity: 1;
+font-size: 20px;
+font-family: Poppins , sans-serif;
+font-weight: bold;
+
+}
+.margin{
+	margin-top: 20px;
+}
+.margin1{
+	margin-top: 50px;
+}
+.socialmediaicon{
+	color: #FFFFFF;
+text-transform: uppercase;
+font-size: 30px;
+font-family: Poppins , sans-serif;
+font-weight: bold;
+letter-spacing: 0px;
+opacity: 1;
+}
+.Media{
+	color: #00BDF1;
+}
+.line-container{
+
+	
+display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.line{
+		background-color: #FFFFFF;
+		width: 80%;
+	height: 0.5px;
+}
+
+
+.copyright-container{
+
+	
+display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+
+}
+.copyright{
+			letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+font-family: Poppins ,sans-serif;
+font-weight: normal;
+font-size: 13px;
+	margin-top: 10px;
+}
+
+
+
+.fa-instagram{
+	background-color: #00BDF1;
+}
+/*responsive*/
+@media(max-width: 767px){
+  .footer-col{
+    width: 50%;
+}
+.footer{
+	text-align: center;
+
+}
+}
+@media(max-width: 574px){
+  .footer-col{
+    width: 100%;
+}
+.footer{
+	text-align: center;
+
+}
+
+}
+
+
+
+
